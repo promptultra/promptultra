@@ -1,5 +1,3 @@
-# promptultra
-
 This repository is a public space for reporting issues, getting support, and participating in discussions related to the project.
 
 ## How to Use This Repository
